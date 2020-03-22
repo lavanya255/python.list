@@ -1,0 +1,6 @@
+a = [] 
+a.append("Hello") 
+a.append("lavu") 
+a.append("For") 
+a.append("lavu") 
+print("The length of list is: ", len(a))
