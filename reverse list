@@ -1,0 +1,6 @@
+def Reverse(lst): 
+    new_lst = lst[::-1] 
+    return new_lst 
+      
+lst = [11,45,67,89] 
+print(Reverse(lst)) 
